@@ -2,7 +2,7 @@
 Projeto construído durante à Next Level Week 01
 
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
+    <img  src="https://ik.imagekit.io/aowlcgixdo/ecoleta_3InfC2JST.svg" width="220px" />
 </h1>
 
 <p align="center">
