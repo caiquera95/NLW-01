@@ -14,7 +14,7 @@ Projeto construído durante à Next Level Week 01
 
 
 <p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+  <img alt="Ecoleta" src="https://ik.imagekit.io/aowlcgixdo/ecoleta___k31SBOn.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
